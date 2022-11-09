@@ -49,7 +49,7 @@
   </p>
 </details>
 
-<br/>
+<hr />
 
 ## :bookmark_tabs: Articles By Me (Expand to View)
 

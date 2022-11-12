@@ -74,6 +74,9 @@
     <li><a href="https://github.com/yahyaelganyni1/devise-jwt-app1/blob/dev/README.md">
     devise jwt app for rails 7 api
     </a></li>
+    <li><a href="https://github.com/yahyaelganyni1/React-Router-Private-Routes/blob/main/readme.md">
+    React Router Private Routes
+    </a></li>
   </ul>
 </details>
 

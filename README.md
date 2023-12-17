@@ -2,13 +2,14 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer"></a>
 </p>
-<h4 align="center">I am a Junior web developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Junior web developer. I like to Code, Design, Innovate, and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.</h4>
 <br>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyaelganyni1&theme=algolia" alt="candida18"  /></p>
-
+<p align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yahyaelganyni1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+</p>
 ### Skills
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)

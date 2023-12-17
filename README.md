@@ -7,9 +7,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yahyaelganyni1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-</p>
 ### Skills
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)

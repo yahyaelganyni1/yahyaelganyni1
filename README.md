@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer"></a>
 </p>
-<h4 align="center">I am a Junior web developer. I like to Code, Design, Innovate, and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.</h4>
+<h4 align="center">a software engineer who loves coding and challenging tasks, working with a variety of technologies.</h4>
 <br>
 
 ## 🔥 Streak Stats
